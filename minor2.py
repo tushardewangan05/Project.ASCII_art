@@ -1,3 +1,4 @@
+#Marrissa mayer
 # =====================================
 # Image to ASCII Art Converter
 # Background forced to black (NO rembg)
@@ -71,3 +72,4 @@ def image_to_ascii(image_name):
 # Run program
 if __name__ == "__main__":
     image_to_ascii("image.jpg")
+
